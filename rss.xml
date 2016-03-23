@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Storyville]]></title>
         <description><![CDATA[Storyville]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/storyville/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 10:38:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 10:42:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/storyville/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hello! This is the first post from Storyville.</p>]]></description>
-            <link>undefinedhello-this-is-the-first-post-from-storyville/index.html</link>
+            <title><![CDATA[Hello]]></title>
+            <description><![CDATA[<article><h1>Hello</h1><p>Hello! This is the first post from Storyville.</p></article>]]></description>
+            <link>https://thegrid.ai/storyville/hello-this-is-the-first-post-from-storyville/index.html</link>
             <guid isPermaLink="false">00a64bb2-c658-4134-99d2-91b523d73924</guid>
-            <pubDate>Wed, 23 Mar 2016 10:37:51 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 10:42:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
