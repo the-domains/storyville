@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Hello! This is the first post from Storyville.'
-datePublished: '2016-03-23T10:37:51.977Z'
-dateModified: '2016-03-23T10:37:22.716Z'
-title: ''
+datePublished: '2016-03-23T10:42:34.754Z'
+dateModified: '2016-03-23T10:42:34.483Z'
+title: Hello
 author: []
+sourcePath: _posts/2016-03-23-hello-this-is-the-first-post-from-storyville.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-23-hello-this-is-the-first-post-from-storyville.md
-published: true
 url: hello-this-is-the-first-post-from-storyville/index.html
 _type: Article
 
