@@ -4,15 +4,8 @@
         <description><![CDATA[Storyville - time to read]]></description>
         <link>https://thegrid.ai/storyville/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Mar 2016 07:32:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 06:53:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/storyville/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://static.pexels.com/photos/12627/pexels-photo-12627-medium.jpeg">]]></description>
-            <link>https://thegrid.ai/storyville/9a3dd2bf-022e-4245-b394-af20ae874d95/index.html</link>
-            <guid isPermaLink="false">9a3dd2bf-022e-4245-b394-af20ae874d95</guid>
-            <pubDate>Sun, 27 Mar 2016 07:27:51 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://static.pexels.com/photos/5710/books-colorful-harry-potter-medium.jpg">]]></description>
@@ -22,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[Hello]]></title>
-            <description><![CDATA[<article><h1>Hello</h1><p>Hello! This is the first post from Storyville.</p></article>]]></description>
+            <description><![CDATA[<p>Hello! This is the first post from Storyville.</p>]]></description>
             <link>https://thegrid.ai/storyville/hello-this-is-the-first-post-from-storyville/index.html</link>
             <guid isPermaLink="false">00a64bb2-c658-4134-99d2-91b523d73924</guid>
             <pubDate>Wed, 23 Mar 2016 10:42:34 GMT</pubDate>
